@@ -5,7 +5,7 @@
     - ResNet
 - 任务
     - 分类
-        - ![ResNet](./CV/Classify/ResNet.md)
+        - @[ResNet](./CV/ImageClassify/ResNet.md)
     - 目标检测
         - RCNN 系列
         - SSD
